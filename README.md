@@ -1,1 +1,3 @@
 # webscraping-challenge
+
+This repository includes an analysis of data on Mars. The information was collected by scraping the html from a website (https://static.bc-edx.com/data/web) and cleaning and organizing the output of this scraping. Part 1 contains a scraping of various articles available the website, and Part 2 contains an in-depth analysis of various weather patterns on Mars, including an estimation of the number of Earth days in a Martian years based on the temperature. 
